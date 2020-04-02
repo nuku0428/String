@@ -1,0 +1,10 @@
+C:\Users\atsumi\source\repos\string\string\bin\Debug\@string.exe.config
+C:\Users\atsumi\source\repos\string\string\bin\Debug\@string.exe
+C:\Users\atsumi\source\repos\string\string\bin\Debug\@string.pdb
+C:\Users\atsumi\source\repos\string\string\obj\Debug\string.csprojAssemblyReference.cache
+C:\Users\atsumi\source\repos\string\string\obj\Debug\string.Form1.resources
+C:\Users\atsumi\source\repos\string\string\obj\Debug\string.Properties.Resources.resources
+C:\Users\atsumi\source\repos\string\string\obj\Debug\string.csproj.GenerateResource.cache
+C:\Users\atsumi\source\repos\string\string\obj\Debug\string.csproj.CoreCompileInputs.cache
+C:\Users\atsumi\source\repos\string\string\obj\Debug\@string.exe
+C:\Users\atsumi\source\repos\string\string\obj\Debug\@string.pdb
